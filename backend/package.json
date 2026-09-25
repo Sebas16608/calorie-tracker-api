@@ -13,6 +13,7 @@
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/node": "^26.6.2",
+    "dotenv": "^18.0.3",
     "prisma": "^6.19.3",
     "ts-node-dev": "^2.0.0",
     "typescript": "^7.0.2"
@@ -22,7 +23,6 @@
     "@types/cors": "^2.8.19",
     "@types/morgan": "^1.9.10",
     "cors": "^2.8.6",
-    "dotenv": "^18.0.3",
     "express": "^5.2.1",
     "morgan": "^1.12.1",
     "psql": "^0.0.1"
